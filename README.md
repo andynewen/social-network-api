@@ -52,7 +52,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 ## Demo
-
+https://youtu.be/xD8cF6hJiZA
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/andy-nguyen-b5b356256/
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-nguyen-b5b356256/)
